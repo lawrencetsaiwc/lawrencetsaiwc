@@ -19,8 +19,6 @@
 
 
 - 🏢 I am seeking an IT position this summer.
-- 📚 About to begin my [MEng in CSE at YZU Taoyuan](https://www.cse.yzu.edu.tw/en) in the middle of 2022!
-- 📚 I have been undertaking self-motivated learning in Spring, React, and Node since August 2025.
 - ⚙️ I use daily: `vim`, `Python`, `Docker`, `Linux`
 - 🌍 I currently enage in the **Moby Project**
 - 🌱 Learning all about **Open Source**, **Workout**
