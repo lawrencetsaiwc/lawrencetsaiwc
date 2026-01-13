@@ -23,7 +23,7 @@
 - 🌍 I currently enage in the **Moby Project**
 - 🌱 Learning all about **Open Source**, **Workout**
 - 💬 Ping me about **Vim**, **Python**, **Docker**, **Linux**, **System Administration and Network Administration**
-- 🌐 Reach me: [kevintsaiwc.github.io](https://kevintsaiwc.github.io/)
+- 🌐 Reach me: [it.kevintsai](it.kevintsai@gmail.com)
 - 💪 I am self-motivated in learning new programming skills and developing outstanding projects.
 - ⚡️ Fun fact: I like to listen to classical music, go hiking, and exercise in my leisure time.
 
