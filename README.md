@@ -18,7 +18,7 @@
 ##### BIO
 
 
-- 🏢 I am seeking an IT or a data scientist position this summer.
+- 🏢 I am seeking an _IT_ or a _Data Scientist_ position this summer.
 - ⚙️ I use daily: `vim`, `Python`, `Docker`, `Linux`
 - 🌍 I currently enage in the **Moby Project**
 - 🌱 Learning all about **Open Source**, **Workout**
